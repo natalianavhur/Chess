@@ -4,7 +4,7 @@ This project is a Python program designed to simulate the game of chess. It incl
 
 As a software engineer, my goal with this project is to deepen my knowledge of algorithm design, data structures, and game logic while creating a functional application for users to enjoy.This project lays a foundation for exploring advanced topics such as AI integration, machine learning, and graphical user interfaces (GUIs) in software development.
 
-[Software Demo Video](https://youtu.be/G2bN4TbGdPQ)
+[Software Demo Video](https://youtu.be/shyC25zXKio)
 
 # Development Environment
 
@@ -14,13 +14,13 @@ As a software engineer, my goal with this project is to deepen my knowledge of a
 
 * Libraries:
     - pygame
-    - chess
+    - copy
     - sys
+    - math
     - os
 
 
 # Useful Websites
-
 
 * [The Chess World](https://thechessworld.com/basic-chess-rules/rules-of-chess/)
 * [The Chess Journal](https://www.chessjournal.com/chess-rules/)
@@ -28,5 +28,10 @@ As a software engineer, my goal with this project is to deepen my knowledge of a
 * [Python](https://docs.python.org/3/)
 * [Python Repo](https://pythonrepo.com/tag/chess)
 
+# Future Work
+
+* Implement save and load functionality for the game.
+* Incorporate machine learning to support both single-player and multiplayer modes.
+* Utilize artificial intelligence to offer insights and analytics within the game.
 
 
